@@ -9,4 +9,5 @@ rem= `expr $no % 10`
 div= `expr $no / 10`
 sum= `expr $rem + $div`
 done
-echo "sumnof two numbers $sum'
+echo "sum of entered didgis: $sum"
+echo "this changes done in master"
